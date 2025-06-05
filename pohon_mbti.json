@@ -1,0 +1,45 @@
+{
+  "fitur": "Introvert",
+  "cabang_ya": {
+    "fitur": "Sensing",
+    "cabang_ya": {
+      "fitur": "Thinking",
+      "cabang_ya": {
+        "nilai": "ISTJ"
+      },
+      "cabang_tidak": {
+        "nilai": "ISFJ"
+      }
+    },
+    "cabang_tidak": {
+      "fitur": "Judging",
+      "cabang_ya": {
+        "nilai": "INTJ"
+      },
+      "cabang_tidak": {
+        "nilai": "ENTP"
+      }
+    }
+  },
+  "cabang_tidak": {
+    "fitur": "Sensing",
+    "cabang_ya": {
+      "fitur": "Thinking",
+      "cabang_ya": {
+        "nilai": "ESTJ"
+      },
+      "cabang_tidak": {
+        "nilai": "ESFJ"
+      }
+    },
+    "cabang_tidak": {
+      "fitur": "Judging",
+      "cabang_ya": {
+        "nilai": "INFJ"
+      },
+      "cabang_tidak": {
+        "nilai": "ENFP"
+      }
+    }
+  }
+}
